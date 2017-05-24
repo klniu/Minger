@@ -1,0 +1,12 @@
+package main
+
+import (
+	"minger/server/src"
+)
+
+func main() {
+	var robotServer server.RobotServer
+	wc := server.NewWebChat()
+	go wc.Serve()
+	robotServer.Serve("127.0.0.1:4500", wc)
+}
