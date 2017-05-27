@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 	"fmt"
-    . "minger/client/src"
+    . "Minger/client/src"
 )
 
 func main() {

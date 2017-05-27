@@ -1,7 +1,7 @@
 package main
 
 import (
-	"minger/server/src"
+	"Minger/server/src"
 )
 
 func main() {

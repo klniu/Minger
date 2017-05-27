@@ -8,7 +8,7 @@ import (
 	"github.com/chanxuehong/wechat.v2/mp/menu"
 	"github.com/chanxuehong/wechat.v2/mp/message/callback/request"
 	"github.com/chanxuehong/wechat.v2/mp/message/callback/response"
-	. "minger/common"
+	. "Minger/common"
 )
 
 const (

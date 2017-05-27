@@ -1,4 +1,4 @@
-package client
+package model
 
 /*
 #cgo pkg-config: gstreamer-1.0

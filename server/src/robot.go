@@ -3,7 +3,7 @@ package server
 import (
 	"errors"
 	"net"
-	. "minger/common"
+	. "Minger/common"
 )
 
 type RobotServer struct {
